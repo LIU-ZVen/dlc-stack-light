@@ -19,6 +19,6 @@
 #include <iostream>
 
 int main(int argc, char** argv) {
-  std::cout << "Hello dlc-stack!";
+  std::cout << "Hello dlc-stack!\n";
   return 0;
 }
